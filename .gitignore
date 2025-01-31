@@ -1,3 +1,6 @@
+# Application Specific ignores
+my_local_output.txt # Ignore local output files
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
