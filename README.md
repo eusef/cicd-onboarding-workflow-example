@@ -12,4 +12,4 @@ To run the share_item.py you need to set a few environment variables for testing
 OP_VAULT_ID= #required and available in 1Password UI
 OP_ITEM_ID_TO_SHARE= # required and available in 1Password UI
 OP_SHARE_LINK=./my_local_output.txt # only used for local testing
-USER_EMAIL= #unset will generate a URL without email verification
+USER_EMAIL= #unset will generate a URL without email verification 
